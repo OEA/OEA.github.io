@@ -6,6 +6,6 @@ categories: blog
 ---
 Hello There! 
 
-I will try to write blog posts which is related to iOS development and cool technologies every 2 weeks.
+I will try to write blog posts related to iOS development and cool technologies for every 2 weeks.
 
 See you soon! 
